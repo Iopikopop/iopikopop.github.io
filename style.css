@@ -1,0 +1,125 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	color: white;
+	font: normal 23px Luminary;
+}
+h2 {
+    color: black;
+    text-transform: capitalize;
+    font: bold 32px 'Open Sans', sans-serif;
+  
+    text-align: center;
+}
+.headf{
+	text-align: center;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	font-size: 100px;
+	
+}
+.headf2{
+	text-align: center;
+
+	margin-top: 50px;
+	font-size: 40px;
+	
+}
+.left{
+	margin: 50px auto 50px auto;
+	width: 72%;
+	
+	
+	text-align: center;
+}
+
+
+
+.fon2{
+	width: 100%;
+	background-color: white;
+	color: black;
+	display: table;
+overflow: hidden;
+}
+.fon h2{
+	color:white;
+}
+
+
+.fon{
+	width: 100%;
+overflow: hidden;
+	
+	display: table;
+}
+.france1{
+position: absolute;
+width:100%;
+margin: 220 auto 0 auto;
+font-size: 70px;
+z-index: 5; 
+}
+.france2{
+position: absolute;
+width: 90%;
+text-align: right;
+
+margin: 220 0 0 0;
+float: right;
+font-size: 70px;
+z-index: 5; 
+}
+   @media screen and (max-width: 1000px) {
+    h2 {font: bold 25px; }
+	body{ font: normal ;}
+	.left{ text-align: justify;
+	width: 92%;}
+   }
+
+p{
+	margin-left: 20px;
+	margin-right:50px;
+	margin-bottom: 50px;
+	margin-top: 20px;
+
+}
+.imgS{
+	
+	overflow: hidden;
+	text-align: center;
+	
+	height: 550px;
+	width: 100%;
+}
+.imgS img{
+	filter: blur(7px);
+	width: 105%;
+	margin-left: -55px;
+}
+.franceEnf{
+width: 20%;
+float: right;
+}
+.franceTele{
+color: black;
+width: 100%;
+height: 700px;
+float: left;
+}
+.franceTele img{
+width: 100%;
+}
+.franceEnf img{
+width: 195%;
+}
+.header{
+	background-size: 100% ;
+	height: 950px;
+	overflow: hidden;
+	text-align: center;
+	padding-top: 230px;
+	padding-bottom: 150px;
+	width: 100%;
+}
