@@ -77,6 +77,16 @@ z-index: 5;
 	.left{ text-align: justify;
 	width: 92%;}
    }
+	@media (min-width: 1600px) and (max-width: 4000px) {
+		body{ font: normal 35px Luminary;; }	
+		h2{    font: bold 52px 'Open Sans', sans-serif;}
+	.france2{ font-size: 90px;}
+	}
+	@media (min-width: 1400px) and (max-width: 1600px) {
+		body{ font: normal 30px Luminary;; }	
+		h2{    font: bold 45px 'Open Sans', sans-serif;}
+	.france2{ font-size: 90px;}
+	}
 
 p{
 	margin-left: 20px;
