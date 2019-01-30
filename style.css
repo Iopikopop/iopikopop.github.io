@@ -112,6 +112,39 @@ p{
 width: 20%;
 float: right;
 }
+.franceEnf3{
+width: 40%;
+float: right;	
+}
+.franceEnf5{
+width: 40%;
+float: right;
+overflow: hidden;	
+}
+.franceEnf5 img{
+	margin: 20px;
+	width: 75%;
+}
+.franceEnf4{
+	width: 35%;
+	overflow: hidden;
+	float: left;	
+	margin: 8px;
+}
+.franceEnf8{
+	width: 45%;
+	margin-right: 30px;
+	overflow: hidden;
+	float: right;	
+}
+.justF{
+	text-align: justify;
+	
+}
+.justF .franceEnf8{
+	margin-left: 15px;
+}
+
 .franceTele{
 color: black;
 width: 100%;
